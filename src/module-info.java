@@ -1,0 +1,2 @@
+module JavaProject2023 {
+}
